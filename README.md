@@ -1,0 +1,2 @@
+# Personel
+Personel Alıştırma Uygulamam
